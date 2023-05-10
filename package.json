@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-needer-kakao-sdk-v2",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-needer-kakao-sdk-v2",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.3",
+    "semver": "^6.0.0",
+    "xcode": "^2.0.0"
+  }
+}
